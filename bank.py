@@ -12,7 +12,7 @@ while True:
     print("4. List last 10 transactions")
     print("5. Exit")
 
-    choice = input("Enter your choice (1-4): ")
+    choice = input("Enter your choice (1-5): ")
 
     if choice == '1':
         # deposit, jāpievieno jaunu transakciju
